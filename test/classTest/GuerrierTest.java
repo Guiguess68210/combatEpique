@@ -1,8 +1,7 @@
-package xyz.fleck;
+package classTest;
 
-import org.junit.jupiter.api.Test;
+import combatepique.Guerrier;
 
-import static org.junit.jupiter.api.Assertions.*;
 
 class GuerrierTest {
 

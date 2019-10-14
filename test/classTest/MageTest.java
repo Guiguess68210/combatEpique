@@ -1,4 +1,6 @@
-package combatepique;
+package classTest;
+
+import combatepique.Mage;
 
 
 

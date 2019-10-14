@@ -20,7 +20,7 @@ public class Guerrier extends Personnage {
      * @param intelligence
      *          intelligence du joueur
      */
-    protected Guerrier(int numJoueur, int force, int agilite, int intelligence) {
+    public Guerrier(int numJoueur, int force, int agilite, int intelligence) {
         super(numJoueur, force, agilite, intelligence);
         type = "Guerrier";
         cri = "Wouarggg";
